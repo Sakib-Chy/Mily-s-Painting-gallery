@@ -9,7 +9,7 @@ header {
     text-align: center;
 }
 
-h1 {
+h1, .typewrite {
     padding: 2rem 0rem;
     color: rgb(236, 223, 28);
 }
