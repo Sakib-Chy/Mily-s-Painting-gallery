@@ -18,6 +18,14 @@ h3 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+p{
+    text-align: center;
+    color: #bb0000;
+}
+footer{
+    background-color: #afafaf;
+}
+
 .button {
     padding: 1rem 1rem;
     font-size: 1.5rem;
